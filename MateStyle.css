@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>body {
+	background-color: #008080;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0c6337;
+}
+a:hover {
+  color: #FCEEBD;
+}
+h1 {
+	font-family: "Comic Sans MS", Arial, sans-serif;
+	font-size: 24px;
+	font-style: bold;
+	color: #FFFFFF;
+}
+h2 {
+	font-family: "Comic Sans MS", Arial, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+h3 {
+    margin-top:15px;
+    font-size:22px;
+}
+.Copyright {
+	text-align: right;
+	font-size: 10px;
+	font-weight:bold;
+	
+}
+address {
+	font-size: 14px;
+	font-weight: bold;
+	font-variant: small-caps;
+	margin-left: 20px;
+}
+.Exclaim {
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+.Loud {
+	font-size: 12px;
+	font-weight: bold;
+}
+.navigation-bar {
+	font-size:14px;
+        font-style: italic;
+	font-weight: bold;
+}
+	<br>table.bg-table {<br>	background: url("/images/HeaderGrad.jpg");<br>}
+</pre>
+  </body>
+</html>
