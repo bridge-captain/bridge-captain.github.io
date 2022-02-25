@@ -1,20 +1,21 @@
 <!--
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">-->
 <html>
-  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app215.us.archive.org';v.server_ms=437;archive_analytics.send_pageview({});});</script>
-<script type="text/javascript" src="/_static/js/bundle-playback.js?v=poeZ53Bz" charset="utf-8"></script>
-<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
-<script type="text/javascript">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+    <script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app215.us.archive.org';v.server_ms=437;archive_analytics.send_pageview({});});</script>
+    <script type="text/javascript" src="/_static/js/bundle-playback.js?v=poeZ53Bz"
+charset="utf-8"></script>
+    <script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+    <script type="text/javascript">
   __wm.init("https://web.archive.org/web");
   __wm.wombat("http://bridgecaptain.com/","20211126193843","https://web.archive.org/","web","/_static/",
 	      "1637955523");
 </script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
-<!-- End Wayback Rewrite JS Include -->
-
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2">
+    <link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ">
+    <!-- End Wayback Rewrite JS Include -->
     <link href="https://www.bridgecaptain.com/MateStyle.css" rel="stylesheet" type="text/css">
     <title>Computer bridge your way with Bridge Captain</title>
     <meta name="title" content="Bridge Captain: Computer Bridge software for your PC">
@@ -30,125 +31,138 @@ body {
 -->
 </style></head>
   <body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
-<style type="text/css">
+    <style type="text/css">
 body {
   margin-top:0 !important;
   padding-top:0 !important;
   /*min-width:800px !important;*/
 }
 </style>
-<script>__wm.rw(0);</script>
-<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
-<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
-<div id="donato" style="position:relative;width:100%;">
-  <div id="donato-base">
-    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20211126193843/https%3A//www.bridgecaptain.com/"
-	    scrolling="no" frameborder="0" style="width:100%; height:100%">
-    </iframe>
-  </div>
-</div><div id="wm-ipp-inside">
-  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
-    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
-      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
-    </div>
-    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
-      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.bridgecaptain.com/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20211126193843" /><input type="submit" value="Go" />
-      </form>
-      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
-		<div class="s" id="wm-nav-captures">
-	  	  <a class="t" href="https://www.bridgecaptain.com/" title="See a list of every capture for this URL">45 captures</a>
-	  <div class="r" title="Timespan for captures of this URL">14 Jun 2010 - 26 Nov 2021</div>
-	  </div>
-	<div class="k" style="flex:1;">
-	  <a href="" id="wm-graph-anchor">
-	    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
-	      <canvas id="wm-sparkline-canvas" width="675" height="27" border="0"></canvas>
-	    </div>
-	  </a>
-	</div>
+    <script>__wm.rw(0);</script>
+    <div id="wm-ipp-base" style="display:none;direction:ltr;" lang="en">
+      <div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+        <div id="donato" style="position:relative;width:100%;">
+          <div id="donato-base"> <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20211126193843/https%3A//www.bridgecaptain.com/"
+              scrolling="no" style="width:100%; height:100%" frameborder="0"> </iframe>
+          </div>
+        </div>
+        <div id="wm-ipp-inside">
+          <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+            <div id="wm-logo" style="/*width:110px;*/padding-top:12px;"> <a href="/web/"
+                title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png"
+                  srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x"
+                  alt="Wayback Machine" style="width:100px" border="0"></a> </div>
+            <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+              <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;"
+                target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input
+                  name="url" id="wmtbURL" value="https://www.bridgecaptain.com/"
+                  onfocus="this.focus();this.select();" style="flex:1;" type="text"><input
+                  name="type" value="replay" type="hidden"><input name="date" value="20211126193843"
+                  type="hidden"><input value="Go" type="submit"> </form>
+              <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures"> <a class="t" href="https://www.bridgecaptain.com/"
+                    title="See a list of every capture for this URL">45 captures</a>
+                  <div class="r" title="Timespan for captures of this URL">14
+                    Jun 2010 - 26 Nov 2021</div>
+                </div>
+                <div class="k" style="flex:1;"> <a href="" id="wm-graph-anchor">
+                    <div id="wm-ipp-sparkline" title="Explore captures for this URL"
+                      style="position: relative"> <canvas id="wm-sparkline-canvas"
+                        width="675" height="27" border="0"></canvas> </div>
+                  </a> </div>
+              </div>
+            </div>
+            <div class="n">
+              <table>
+                <tbody>
+                  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+                  <tr class="m">
+                    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/"
+                        title="22 Feb 2020"><strong>Feb</strong></a></td>
+                    <td class="c" id="displayMonthEl" title="You are here: 19:38:43 Nov 26, 2021">NOV</td>
+                    <td class="f" nowrap="nowrap">Dec</td>
+                  </tr>
+                  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+                  <tr class="d">
+                    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/"
+                        title="04:43:44 Feb 22, 2020"><img src="/_static/images/toolbar/wm_tb_prv_on.png"
+                          alt="Previous capture" height="16" width="14" border="0"></a></td>
+                    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;"
+                      title="You are here: 19:38:43 Nov 26, 2021">26</td>
+                    <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png"
+                        alt="Next capture" height="16" width="14" border="0"></td>
+                  </tr>
+                  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+                  <tr class="y">
+                    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/"
+                        title="22 Feb 2020"><strong>2020</strong></a></td>
+                    <td class="c" id="displayYearEl" title="You are here: 19:38:43 Nov 26, 2021">2021</td>
+                    <td class="f" nowrap="nowrap">2022</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+              <div id="wm-btns" style="text-align:right;height:23px;"> <span class="xxs">
+                  <div id="wm-save-snapshot-success">success</div>
+                  <div id="wm-save-snapshot-fail">fail</div>
+                  <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive">
+                    <span class="iconochive-web"></span> </a> <a href="https://archive.org/account/login.php"
+                    title="Sign In" id="wm-sign-in"> <span class="iconochive-person"></span>
+                  </a> <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+                </span> <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine"
+                  style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+                <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span
+                    class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+              </div>
+              <div id="wm-share" class="xxs"> <a href="https://www.bridgecaptain.com/"
+                  id="wm-screenshot" title="screenshot"> <span class="wm-icon-screen-shot"></span>
+                </a> <a href="#" id="wm-video" title="video"> <span class="iconochive-movies"></span>
+                </a> <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20211126193843/http://bridgecaptain.com/"
+                  title="Share on Facebook" style="margin-right:5px;" target="_blank"><span
+                    class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+                <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20211126193843/http://bridgecaptain.com/"
+                  title="Share on Twitter" style="margin-right:5px;" target="_blank"><span
+                    class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+              </div>
+              <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+                <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span
+                    id="wm-expand-icon" class="iconochive-down-solid"></span> <span
+                    class="xxs" style="font-size:80%;">About this capture</span></a>
+              </div>
+            </div>
+          </div>
+          <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div id="wm-capinfo-collected-by">
+              <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED
+                BY</div>
+              <div style="padding:3px;position:relative" id="wm-collected-by-content">
+                <div style="display:inline-block;vertical-align:top;width:49%;">
+                  <span class="c-logo" style="background-image:url(https://archive.org/services/img/mega-001)"></span>
+                  <div>Collection: <a style="color:#33f;" href="https://archive.org/details/mega-001"
+                      target="_new"><span class="wm-title">mega001</span></a></div>
+                </div>
+              </div>
+            </div>
+            <div id="wm-capinfo-timestamps">
+              <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center"
+                title="Timestamps for the elements of this page">TIMESTAMPS</div>
+              <div>
+                <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+                <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img
+                    src="/_static/images/loading.gif" alt="loading"></div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="n">
-      <table>
-	<tbody>
-	  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
-	  <tr class="m">
-	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/" title="22 Feb 2020"><strong>Feb</strong></a></td>
-	    <td class="c" id="displayMonthEl" title="You are here: 19:38:43 Nov 26, 2021">NOV</td>
-	    <td class="f" nowrap="nowrap">Dec</td>
-	  </tr>
-	  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
-	  <tr class="d">
-	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/" title="04:43:44 Feb 22, 2020"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-	    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 19:38:43 Nov 26, 2021">26</td>
-	    <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
-	  </tr>
-	  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
-	  <tr class="y">
-	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20200222044344/http://www.bridgecaptain.com:80/" title="22 Feb 2020"><strong>2020</strong></a></td>
-	    <td class="c" id="displayYearEl" title="You are here: 19:38:43 Nov 26, 2021">2021</td>
-	    <td class="f" nowrap="nowrap">2022</td>
-	  </tr>
-	</tbody>
-      </table>
-    </div>
-    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
-      <div id="wm-btns" style="text-align:right;height:23px;">
-        	<span class="xxs">
-          <div id="wm-save-snapshot-success">success</div>
-          <div id="wm-save-snapshot-fail">fail</div>
-          <a id="wm-save-snapshot-open" href="#"
-	     title="Share via My Web Archive" >
-            <span class="iconochive-web"></span>
-          </a>
-          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
-            <span class="iconochive-person"></span>
-          </a>
-          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
-	</span>
-        	<a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
-	<a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
-      </div>
-      <div id="wm-share" class="xxs">
-        <a href="https://www.bridgecaptain.com/"
-           id="wm-screenshot"
-           title="screenshot">
-          <span class="wm-icon-screen-shot"></span>
-        </a>
-        <a href="#" id="wm-video" title="video">
-          <span class="iconochive-movies"></span>
-        </a>
-	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20211126193843/http://bridgecaptain.com/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20211126193843/http://bridgecaptain.com/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
-      </div>
-      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
-	<a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
-      </div>
-    </div>
-  </div>
-    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
-                    <div id="wm-capinfo-collected-by">
-    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
-    <div style="padding:3px;position:relative" id="wm-collected-by-content">
-      <div style="display:inline-block;vertical-align:top;width:49%;">
-			<span class="c-logo" style="background-image:url(https://archive.org/services/img/mega-001)"></span>
-		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/mega-001" target="_new"><span class="wm-title">mega001</span></a></div>
-	      </div>
-    </div>
-    </div>
-    <div id="wm-capinfo-timestamps">
-    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
-    <div>
-      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
-      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
-    </div>
-    </div>
-  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20211126193843/http://bridgecaptain.com/</div>
-<script type="text/javascript">
+    <div id="wm-ipp-print">The Wayback Machine -
+      https://web.archive.org/web/20211126193843/http://bridgecaptain.com/</div>
+    <script type="text/javascript">
 __wm.bt(675,27,25,2,"web","https://www.bridgecaptain.com/","20211126193843",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
   __wm.rw(1);
-</script>
-<!-- END WAYBACK TOOLBAR INSERT --><!-- #BeginLibraryItem "/Library/Header.lbi" -->
+</script><!-- END WAYBACK TOOLBAR INSERT --><!-- #BeginLibraryItem "/Library/Header.lbi" -->
     <script language="JavaScript" type="text/JavaScript">
 <!-- Hide from really old browsers
 function ColorScrollbar() {
@@ -156,42 +170,49 @@ function ColorScrollbar() {
   document.body.style.scrollbarTrackColor="#4eaea3"        
 }
 //-->
-</script> <table align="center" height="90" cellspacing="0" cellpadding="0" border="0">
+</script> <table height="90" cellspacing="0" cellpadding="0" border="0" align="center">
       <tbody>
         <tr bgcolor="#008080">
           <td rowspan="2" width="11%" bgcolor="#008080">&nbsp;</td>
-          <td rowspan="2" width="40%" bgcolor="#008080"><img src="https://www.bridgecaptain.com/images/BoatCaptain.jpg" alt="Bridge Captain salboat logo" height="90" width="309"></td>
+          <td rowspan="2" width="40%" bgcolor="#008080"><img src="https://www.bridgecaptain.com/images/BoatCaptain.jpg"
+              alt="Bridge Captain salboat logo" height="90" width="309"></td>
           <td rowspan="2" width="10%" bgcolor="#008080">&nbsp;</td>
-          <td align="center" width="23%" valign="bottom" bgcolor="#008080">
-            <div align="right"><img src="https://www.bridgecaptain.com/images/deck.jpg" alt="Bridge hand with 13 cards" height="60" width="163"></div>
+          <td width="23%" valign="bottom" bgcolor="#008080" align="center">
+            <div align="right"><img src="https://www.bridgecaptain.com/images/deck.jpg"
+                alt="Bridge hand with 13 cards" height="60" width="163"></div>
           </td>
-          <td align="center" width="11%" valign="bottom" bgcolor="#008080">&nbsp;</td>
+          <td width="11%" valign="bottom" bgcolor="#008080" align="center">&nbsp;</td>
         </tr>
         <tr>
-          <td align="right" height="30" valign="top" bgcolor="#008080"><img src="https://www.bridgecaptain.com/images/MateLogo.jpg" align="left" height="30" width="175"></td>
-          <td align="right" height="30" valign="top" bgcolor="#008080">&nbsp;</td>
+          <td height="30" valign="top" bgcolor="#008080" align="right"><img src="https://www.bridgecaptain.com/images/MateLogo.jpg"
+              height="30" width="175" align="left"></td>
+          <td height="30" valign="top" bgcolor="#008080" align="right">&nbsp;</td>
         </tr>
       </tbody>
     </table>
     <!-- #EndLibraryItem -->
-    <table &gt;="" align="center" width="90%" cellspacing="0" cellpadding="0" border="0" background="https://www.bridgecaptain.com/images/HeaderGrad.jpg">
+    <table &gt;="" width="90%" cellspacing="0" cellpadding="0" border="0" background="https://www.bridgecaptain.com/images/HeaderGrad.jpg"
+      align="center">
       <tbody>
         <tr>
-          <td scope="col" align="left" width="15%" valign="top"><img src="https://www.bridgecaptain.com/images/topleft.gif" height="50" width="50"></td>
+          <td scope="col" width="15%" valign="top" align="left"><img src="https://www.bridgecaptain.com/images/topleft.gif"
+              height="50" width="50"></td>
           <th scope="col" width="79%">
             <h3 align="center">Welcome</h3>
           </th>
-          <td scope="col" align="right" valign="top">
-            <div align="right"><img src="https://www.bridgecaptain.com/images/topright.gif" height="34" width="34"></div>
+          <td scope="col" valign="top" align="right">
+            <div align="right"><img src="https://www.bridgecaptain.com/images/topright.gif"
+                height="34" width="34"></div>
           </td>
         </tr>
         <tr>
           <td width="15%" valign="top"><!-- #BeginLibraryItem "/Library/NavBar.lbi" -->
-            <table align="center" width="15%" cellspacing="15" cellpadding="0" border="0">
+            <table width="15%" cellspacing="15" cellpadding="0" border="0" align="center">
               <tbody>
                 <tr>
                   <th scope="col">
-                    <table style="width: 98px; height: 174px;" align="center" cellspacing="6" cellpadding="0" border="0">
+                    <table style="width: 98px; height: 174px;" cellspacing="6" cellpadding="0"
+                      border="0" align="center">
                       <tbody>
                         <tr>
                           <td class="navigation-bar" width="66"><a href="index.html">Home</a></td>
@@ -239,18 +260,20 @@ function ColorScrollbar() {
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tbody>
                 <tr>
-                  <th scope="col"><img src="https://www.bridgecaptain.com/images/KS.gif" title="King of spades" height="110" width="94"></th>
+                  <th scope="col"><img src="https://www.bridgecaptain.com/images/KS.gif"
+                      title="King of spades" height="110" width="94"></th>
                   <td scope="col">
                     <div align="center"><span class="Exclaim">Bridge Captain 6,
                         the computer bridge game that will help you get to the
                         next level. </span></div>
                   </td>
-                  <th scope="col"><img src="https://www.bridgecaptain.com/images/QH.gif" title="Queen of hearts" height="111" width="94"></th>
-                  <td scope="col" align="left" valign="top">&nbsp;</td>
+                  <th scope="col"><img src="https://www.bridgecaptain.com/images/QH.gif"
+                      title="Queen of hearts" height="111" width="94"></th>
+                  <td scope="col" valign="top" align="left">&nbsp;</td>
                 </tr>
               </tbody>
             </table>
-            <table align="center" width="100%" border="0">
+            <table width="100%" border="0" align="center">
               <tbody>
                 <tr>
                   <td>
@@ -308,7 +331,7 @@ function ColorScrollbar() {
                 kind. Your privacy is assured when visiting this web site,
                 downloading or running any program obtained from this web site.</p>
               <p></p>
-              <p class="Loud"><span class="Loud">For many Danish Bridge Products
+              <p class="Loud"><span class="Loud">For Danish Bridge Products
                   including the latest "Bridge Class Plus", see </span> <a href="https://web.archive.org/web/20211126193843/http://www.edbridge.dk/">EdBridge</a>
               </p>
             </div>
@@ -323,9 +346,11 @@ function ColorScrollbar() {
           <td>&nbsp;</td>
         </tr>
         <tr>
-          <td valign="bottom"><img src="https://www.bridgecaptain.com/images/bottomleft.gif" height="34" width="34"></td>
+          <td valign="bottom"><img src="https://www.bridgecaptain.com/images/bottomleft.gif"
+              height="34" width="34"></td>
           <td valign="bottom">
-            <div align="right"><img src="https://www.bridgecaptain.com/images/bottomright.gif" height="34" width="34"></div>
+            <div align="right"><img src="https://www.bridgecaptain.com/images/bottomright.gif"
+                height="34" width="34"></div>
           </td>
         </tr>
       </tbody>
