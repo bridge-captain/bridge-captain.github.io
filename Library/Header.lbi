@@ -1,0 +1,22 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script language="JavaScript" type="text/JavaScript">
+<!-- Hide from really old browsers
+function ColorScrollbar() {
+  document.body.style.scrollbarFaceColor="rgb(0,153,153)"  
+  document.body.style.scrollbarTrackColor="#4eaea3"        
+}
+//-->
+</script>
+<table height="90"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr bgcolor="#008080">
+    <td width="11%" rowspan="2" bgcolor="#008080">&nbsp;</td>
+    <td width="40%" rowspan="2" bgcolor="#008080"><img src="../images/BoatCaptain.jpg" alt="Bridge Captain salboat logo" width="309" height="90"></td>
+    <td width="10%" rowspan="2" bgcolor="#008080">&nbsp;</td>
+    <td width="23%" align="center" valign="bottom" bgcolor="#008080"><div align="right"><img src="../images/deck.jpg" alt="Bridge hand with 13 cards" width="163" height="60"></div></td>
+    <td width="11%" align="center" valign="bottom" bgcolor="#008080">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="right" valign="top" bgcolor="#008080"><img src="../images/MateLogo.jpg" width="175" height="30" align="left"></td>
+  <td height="30" align="right" valign="top" bgcolor="#008080">&nbsp;</td>
+  </tr>
+</table>

@@ -1,0 +1,207 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link href="MateStyle.css" rel="stylesheet" type="text/css">
+    <title>Lead Captain</title>
+    <meta name="title" content="Lead Captain">
+    <meta name="keywords" content="bridge, language, double, dummy solver, optimum, opening, leads  ">
+    <meta name="description" content="Download your free copy of Lead Captain - the ONLY program that calculates the best opening lead....and more">
+    <style type="text/css">
+<!--
+body {
+	background-color: #008080;
+}
+.style1 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style5 {
+	color: #990000;
+	font-weight: bold;
+}
+.style6 {
+	color: #990000;
+	font-weight: bold;
+	font-size: 16px;
+}
+.style7 {
+	color: #990000;
+	font-weight: bold;
+	font-size: 18px;
+}
+-->
+</style> </head>
+  <body><!-- #BeginLibraryItem "/Library/Header.lbi" -->
+    <script language="JavaScript" type="text/JavaScript">
+<!-- Hide from really old browsers
+function ColorScrollbar() {
+  document.body.style.scrollbarFaceColor="rgb(0,153,153)"  
+  document.body.style.scrollbarTrackColor="#4eaea3"        
+}
+//-->
+</script> <table height="90" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tbody>
+        <tr bgcolor="#008080">
+          <td rowspan="2" width="11%" bgcolor="#008080">&nbsp;</td>
+          <td rowspan="2" width="40%" bgcolor="#008080"><img src="images/BoatCaptain.jpg"
+              alt="Bridge Captain salboat logo" height="90" width="309"></td>
+          <td rowspan="2" width="10%" bgcolor="#008080">&nbsp;</td>
+          <td width="23%" valign="bottom" bgcolor="#008080" align="center">
+            <div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards"
+                height="60" width="163"></div>
+          </td>
+          <td width="11%" valign="bottom" bgcolor="#008080" align="center">&nbsp;</td>
+        </tr>
+        <tr>
+          <td height="30" valign="top" bgcolor="#008080" align="right"><img src="images/MateLogo.jpg"
+              height="30" width="175" align="left"></td>
+          <td height="30" valign="top" bgcolor="#008080" align="right">&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- #EndLibraryItem -->
+    <table width="90%" cellspacing="0" cellpadding="0" border="0" background="images/HeaderGrad.jpg"
+      align="center">
+      <tbody>
+        <tr>
+          <td scope="col" width="15%" valign="top" align="left"><img src="images/topleft.gif"
+              height="50" width="50"></td>
+          <th scope="col" width="79%">
+            <h3 align="center">Lead Captain</h3>
+            <p align="center">&nbsp;</p>
+          </th>
+          <td scope="col" valign="top" align="right">
+            <div align="right"><img src="images/topright.gif" height="34" width="34"></div>
+          </td>
+        </tr>
+        <tr>
+          <td width="15%" valign="top"><!-- #BeginLibraryItem "/Library/NavBar.lbi" -->
+            <table width="15%" cellspacing="15" cellpadding="0" border="0" align="center">
+              <tbody>
+                <tr>
+                  <th scope="col">
+                    <table cellspacing="6" cellpadding="0" border="0" align="center">
+                      <tbody>
+                        <tr>
+                          <td class="navigation-bar" width="66"><a href="index.html">Home</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="downloadDD.html">Double
+                              Dummy Solver</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="LeadCaptain40.html">Lead
+                              Captain</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="aboutus.html">About
+                              Us</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+            <!-- #EndLibraryItem --></td>
+          <td rowspan="2" valign="top">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td scope="col">
+                    <div align="center">
+                      <h3>Download your FREE copy of <a href="Lead%20Captain%20Setup%20Version%204.exe"
+                          title="Lead Captain">Lead Captain 4.06</a> </h3>
+                      <p class="style3" style="text-align: left;"><span class="Exclaim">4.06
+                          </span>Starting random number now varies with each
+                        start of the program. Print bug fixed.</p>
+                      <p class="style3" style="text-align: left;"><span class="Exclaim">4.03
+                          </span>The Compare Bid tab was incorrectly using the
+                        "X if-2" selection from the Invite Bid tab. Also
+                        includes a few new Chinese translations. Thank you Li. </p>
+                      <p class="style3" style="text-align: left;"><span class="Exclaim">4.02
+                          </span>Corrected problems with European decimal
+                        separator.</p>
+                      <p class="style3" style="text-align: left;"><span class="Exclaim">4.01
+                          </span>Translations for Chinese and Dutch. Thank you
+                        Peter and Ton.</p>
+                      <h3 style="text-align: left;"></h3>
+                      <h3 style="text-align: left;">Lead Captain is two programs
+                        in one </h3>
+                      <h4 style="text-align: left;">Click for more info</h4>
+                    </div>
+                    <ul>
+                      <li>
+                        <h4><a href="OpeningLeads.html" title="More detail about the Opening Lead"
+                            target="_blank">Opening Leads</a></h4>
+                      </li>
+                      <li>
+                        <h4><a href="BidDecisions.html" title="More detail about Bidding Decisions"
+                            target="_blank">Bidding Decisions</a></h4>
+                      </li>
+                    </ul>
+                    <div align="center">
+                      <h3>General Approach </h3>
+                    </div>
+                    <div style="text-align: left;">Lead Captain generates
+                      millions of totally random hands to find hands that fit
+                      your criteria, then uses double dummy analysis to
+                      determine the results of those hands. The better you have
+                      defined the hand patterns that fit your problem, the
+                      better your results. Generally 2,000 or more hands are
+                      needed to obtain statistically meaningful answers. Whether
+                      you are trying to answer an <a href="OpeningLeads.html" target="_blank">opening
+                        lead</a> question or a <a href="BidDecisions.html" target="_blank">
+                        bidding decision</a>, the general procedure with Lead
+                      Captain is the same:
+                      <ol>
+                        <li>Fill in all 13 cards for the South hand. In bidding
+                          decisions, you can also define a pattern for South in
+                          lieu of all 13 cards.</li>
+                        <li>Define the other three hands. Up to 50 different
+                          patterns are allowed for each hand. </li>
+                        <li>Fill in the desired number of deals in your study. </li>
+                        <li>Click the Leads or the Create Deals button. </li>
+                      </ol>
+                      <p>When you click the Create Deals button, Lead Captain
+                        shuffles, deals, and then determines if the criteria
+                        you've set for all hands have been met. If not, the
+                        cards are randomly shuffled again and the resulting deal
+                        is retested. </p>
+                      <p>If the deal meets all hand definitions Lead Captain
+                        then uses Bo Haglund's double dummy engine to determine
+                        the optimum double dummy result, stores that information
+                        for subsequent reporting, and then returns to shuffle
+                        the cards once again.</p>
+                      <p>In a simple test, Lead Captain my shuffle the deck one
+                        million times to find 5,000 hands that fit your
+                        definitions. Depending on the number of patterns to be
+                        tested, it takes approximately 10 seconds for Lead
+                        Captain to shuffle and deal 1 million hands. It takes
+                        the double dummy engine roughly two minutes to make it's
+                        calculations on those 5,000 hands. </p>
+                      <p class="Loud" align="left">Download the <a href="LeadCaptain4.chm">Lead
+                          Captain help file</a> for a more detailed description
+                        of the latest version of the program, and all its
+                        features. </p>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+          <td valign="bottom"><img src="images/bottomleft.gif" height="34" width="34"></td>
+          <td><br>
+          </td>
+          <td valign="bottom">
+            <div align="right"><img src="images/bottomright.gif" height="34" width="34"></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
