@@ -1,0 +1,211 @@
+<!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link href="MateStyle.css" rel="stylesheet" type="text/css">
+    <title>Computer bridge your way with Bridge Captain</title>
+    <meta name="title" content="Bridge Captain: Computer Bridge software for your PC">
+    <meta name="keywords" content="bridge, bridge captain, bridge card game, bridge software, bridge program, game, contract, card game, demo, free download, shareware, computer bridge, bridge tournaments, windows, sayc, goren, standard american, 2/1, k-s, precision club, blue team club ">
+    <meta name="description" content="Bridge Captain, Computer bridge your way. Download a free demo program and see why Bridge Captain is the best computer game available.">
+    <style type="text/css">
+
+<!--
+body {
+	background-color: #008080;
+}
+.style1 {color: #FFFF00}
+-->
+</style></head>
+  <body><!-- #BeginLibraryItem "/Library/Header.lbi" -->
+    <script language="JavaScript" type="text/JavaScript">
+<!-- Hide from really old browsers
+function ColorScrollbar() {
+  document.body.style.scrollbarFaceColor="rgb(0,153,153)"  
+  document.body.style.scrollbarTrackColor="#4eaea3"        
+}
+//-->
+</script> <table align="center" height="90" cellspacing="0" cellpadding="0" border="0">
+      <tbody>
+        <tr bgcolor="#008080">
+          <td rowspan="2" width="11%" bgcolor="#008080">&nbsp;</td>
+          <td rowspan="2" width="40%" bgcolor="#008080"><img src="images/BoatCaptain.jpg"
+              alt="Bridge Captain salboat logo" height="90" width="309"></td>
+          <td rowspan="2" width="10%" bgcolor="#008080">&nbsp;</td>
+          <td align="center" width="23%" valign="bottom" bgcolor="#008080">
+            <div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards"
+                height="60" width="163"></div>
+          </td>
+          <td align="center" width="11%" valign="bottom" bgcolor="#008080">&nbsp;</td>
+        </tr>
+        <tr>
+          <td align="right" height="30" valign="top" bgcolor="#008080"><img src="images/MateLogo.jpg"
+              align="left" height="30" width="175"></td>
+          <td align="right" height="30" valign="top" bgcolor="#008080">&nbsp;</td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- #EndLibraryItem -->
+    <table &gt;="" align="center" width="90%" cellspacing="0" cellpadding="0" border="0"
+      background="images/HeaderGrad.jpg">
+      <tbody>
+        <tr>
+          <td scope="col" align="left" width="15%" valign="top"><img src="images/topleft.gif"
+              height="50" width="50"></td>
+          <th scope="col" width="79%">
+            <h3 align="center">Welcome</h3>
+          </th>
+          <td scope="col" align="right" valign="top">
+            <div align="right"><img src="images/topright.gif" height="34" width="34"></div>
+          </td>
+        </tr>
+        <tr>
+          <td width="15%" valign="top"><!-- #BeginLibraryItem "/Library/NavBar.lbi" -->
+            <table align="center" width="15%" cellspacing="15" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <th scope="col">
+                    <table style="width: 98px; height: 174px;" align="center" cellspacing="6"
+                      cellpadding="0" border="0">
+                      <tbody>
+                        <tr>
+                          <td class="navigation-bar" width="66"><a href="index.html">Home</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar" width="66"> <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="downloadDD.html">Double
+                              Dummy Solver</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar" width="66"> <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="LeadCaptain.html">Lead
+                              Captain</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar" width="66"> <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="WordCaptain.html">Word
+                              Captain</a></td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar" width="66"> <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="navigation-bar"><a href="aboutus.html">About
+                              Us</a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+            <!-- #EndLibraryItem --></td>
+          <td rowspan="2" valign="top">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <th scope="col"><img src="images/KS.gif" title="King of spades"
+                      height="110" width="94"></th>
+                  <td scope="col">
+                    <div align="center"><span class="Exclaim">Bridge Captain 6,
+                        the computer bridge game that will help you get to the
+                        next level. </span></div>
+                  </td>
+                  <th scope="col"><img src="images/QH.gif" title="Queen of hearts"
+                      height="111" width="94"></th>
+                  <td scope="col" align="left" valign="top">&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
+            <table align="center" width="100%" border="0">
+              <tbody>
+                <tr>
+                  <td>
+                    <div align="left">
+                      <h3 align="center">Bridge Captain 6 - Now Free</h3>
+                      <p>After selling Bridge Captain for many years, I've
+                        retired from selling programs and decided to give this
+                        program away. There are a few newer programs available
+                        that can bid and play a bit better, but Bridge Captain
+                        still is a FUN program that works quite well. I'm sure
+                        you'll enjoy many hours playing this desktop bridge
+                        game, as have the thousands of customers over the last
+                        decade. If you want to brush up on some of the new
+                        conventions, this is a great program.</p>
+                      <p>Download your copy of Bridge Captain and start playing
+                        computer bridge. Whether your favorite bidding system is
+                        Goren, Standard American, SAYC, 2/1, K-S, Precision
+                        Club, or even Blue Team Club, you’ll find Bridge Captain
+                        to be the most fun computer bridge game available.
+                        Haven’t played our favorite card game in awhile, get
+                        back into the game with Bridge Captain? </p>
+                      <p>This is the perfect computer game to polish up your
+                        game and learn some of the new conventions now being
+                        played at most bridge tournaments. Bridge Captain 6
+                        offers more bidding systems and conventions than any
+                        other computer bridge game. It runs under all
+                        &nbsp;Windows operating systems since Win95. Download
+                        this free program for your PC and start playing contract
+                        bridge today.</p>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="Loud">Please look at all the <a href="features.html">features</a>
+              Bridge Captain 6 offers:</p>
+            <ul>
+              <li class="Loud">Choose from hundreds of conventions</li>
+              <li class="Loud">Compete against the experts on International
+                tournament hands</li>
+              <li class="Loud">Play unlimited random hands</li>
+              <li class="Loud">Enjoy easy to read, uncluttered <a href="main.html">screen
+                  graphics</a> </li>
+              <li class="Loud">Add your own systems and conventions! </li>
+              <li class="Loud">Works on all Windows PCs since Windows 95</li>
+            </ul>
+            <div class="Exclaim">
+              <p><a href="Captain6Setup.exe">Download</a> your free copy of
+                Bridge Captain 6 today, and start having fun with bridge.</p>
+              <p><a href="PBNforBC.exe">Download</a> your free copy of PBNforBC
+              </p>
+              <h3 style="text-align: center;">GDPR Information</h3>
+              <p class="Loud style11" align="left">Double Dummy Solver does not
+                collect, and will never collect, any personal information of any
+                kind. Your privacy is assured when visiting this web site,
+                downloading or running any program obtained from this web site.</p>
+              <p></p>
+              <p class="Loud"><span class="Loud">For many Danish Bridge Products
+                  including the latest "Bridge Class Plus", see </span> <a href="http://www.edbridge.dk/">EdBridge</a>
+              </p>
+            </div>
+            <script type="text/javascript">
+<!--
+  var lastModDate = document.lastModified
+  lastModDate = lastModDate.substring(0,10)
+  document.write("<div class='Copyright'>Copyright 1993...2010 Bob Richardson<br />")
+  document.write("<div class='Copyright'>This document last modified "+lastModDate+".")
+//-->
+</script> </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td valign="bottom"><img src="images/bottomleft.gif" height="34" width="34"></td>
+          <td valign="bottom">
+            <div align="right"><img src="images/bottomright.gif" height="34" width="34"></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

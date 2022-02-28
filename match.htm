@@ -1,0 +1,137 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="MateStyle.css" rel="stylesheet" type="text/css">
+<title>Bridge Captain Match Play</title>
+
+ <script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+      </script>
+<style type="text/css">
+<!--
+body {
+	background-color: #008080;
+}
+-->
+</style><body onLoad="ColorScrollbar(),
+MM_preloadImages('../html/images/Navbar/Dldown.jpg','../html/images/Navbar/Dlover.jpg','../html/images/Navbar/Dloverdown.jpg','../html/images/Navbar/Fedown.jpg','../html/images/Navbar/Feover.jpg','../html/images/Navbar/Feoverdown.jpg','../html/images/Navbar/Ordown.jpg','../html/images/Navbar/Orover.jpg','../html/images/Navbar/Oroverdown.jpg','../html/images/Navbar/Abdown.jpg','../html/images/Navbar/Abover.jpg','../html/images/Navbar/Aboverdown.jpg','../html/images/Navbar/Hmover.jpg','../html/images/Navbar/Hmoverdown.jpg','../html/images/Navbar/Hmdown.jpg')"><!-- #BeginLibraryItem "/Library/Header.lbi" -->
+<script language="JavaScript" type="text/JavaScript">
+<!-- Hide from really old browsers
+function ColorScrollbar() {
+  document.body.style.scrollbarFaceColor="rgb(0,153,153)"  
+  document.body.style.scrollbarTrackColor="#4eaea3"        
+}
+//-->
+</script>
+<table height="90"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr bgcolor="#008080">
+    <td width="11%" rowspan="2" bgcolor="#008080">&nbsp;</td>
+    <td width="40%" rowspan="2" bgcolor="#008080"><img src="images/BoatCaptain.jpg" alt="Bridge Captain salboat logo" width="309" height="90"></td>
+    <td width="10%" rowspan="2" bgcolor="#008080">&nbsp;</td>
+    <td width="23%" align="center" valign="bottom" bgcolor="#008080"><div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards" width="163" height="60"></div></td>
+    <td width="11%" align="center" valign="bottom" bgcolor="#008080">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" align="right" valign="top" bgcolor="#008080"><img src="images/MateLogo.jpg" width="175" height="30" align="left"></td>
+  <td height="30" align="right" valign="top" bgcolor="#008080">&nbsp;</td>
+  </tr>
+</table>
+<!-- #EndLibraryItem --><table width="90%"  border="0" align="center" cellpadding="0" cellspacing="0" background="images/HeaderGrad.jpg">
+  <tr>
+    <td width="15%" align="left" valign="top" scope="col"><img src="images/topleft.gif" width="50" height="50"></td>
+    <th width="79%" scope="col"><h3 align="center">Match Play </h3></th>
+    <td align="right" valign="top" scope="col"><div align="right"><img src="images/topright.gif" width="34" height="34"></div></td>
+  </tr>
+  <tr>
+    <td width="15%" valign="top"><!-- #BeginLibraryItem "/Library/NavBar.lbi" -->
+<table width="15%"  border="0" align="center" cellpadding="0" cellspacing="15">
+  <tr>
+    <th scope="col"><table border="0" align="center" cellpadding="0" cellspacing="6">
+      <tr>
+        <td width="66" class="navigation-bar"><a href="index.html">Home</a></td>
+      </tr>
+      <tr>
+        <td class="navigation-bar"><a href="features.html">Features</a></td>
+      </tr>
+        <tr>
+        <td class="navigation-bar"><a href="downloadDD.html">Double Dummy Solver</a></td>
+      </tr>
+      <tr>
+        <td class="navigation-bar"><a href="LeadCaptain.html">Lead Captain</a></td>
+      </tr>
+      <tr>
+        <td class="navigation-bar"><a href="aboutus.html">About Us</a></td>
+      </tr>
+    </table></th>
+  </tr>
+</table>
+<!-- #EndLibraryItem --></td>
+    <td rowspan="2" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td scope="col"><div align="left">
+          <p>To create a Match File, first select the number of hands in your match (4, 8, 16, or 24) and then select the scoring mode - IMPs, Match Points, or Total Points. With only one computer, first you play all the hands in the match, then your partner plays them. </p>
+          <p>This feature works best if you have two computers connected over a LAN. Then you can both play simultaneously, using the same Match File. Results are maintained in real time, adding to your enjoyment. </p>
+          <p>There's no limit to the number of people who can play a match, but generally it's just two. Here's the layout of the Match Scoreboard. </p>
+          <p><img src="images/match.JPG" width="633" height="348"></p>
+        </div></td>
+        </tr>
+    </table>      
+    <p class="Loud">&nbsp;</p>
+      <ul>
+        </li>
+      </ul>
+</td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="bottom"><img src="images/bottomleft.gif" width="34" height="34"></td>
+    <td valign="bottom"><div align="right"><img src="images/bottomright.gif" width="34" height="34"></div></td>
+  </tr>
+</table>
+</body>

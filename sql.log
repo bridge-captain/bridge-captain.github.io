@@ -1,0 +1,9 @@
+
+2022.01.19 19:59:59 mycal:ERROR Script: /calendar/index.php - SQL execute error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+Values string: 8d2387b6a989167e9439a129454bfab9,,241eead2dd04e984a4e2e0ee7c9aaea4,2
+2022.01.19 20:00:18 mycal:ERROR Script: /calendar/index.php - SQL execute error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+Values string: 8d2387b6a989167e9439a129454bfab9,,4245407bc5938b2638b4f174cab82e9d,2
+2022.01.19 20:00:49 mycal:ERROR Script: /calendar/index.php - SQL execute error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+Values string: 8d2387b6a989167e9439a129454bfab9,,87aaa712c556dd88925c832c136b134a,2
+2022.01.19 20:01:30 mycal:ERROR Script: /calendar/index.php - SQL execute error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+Values string: 8d2387b6a989167e9439a129454bfab9,,2aaaca1473fc635d9f01ff5ee8d415ab,2
