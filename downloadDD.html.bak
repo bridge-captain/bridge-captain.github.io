@@ -26,32 +26,27 @@ function ColorScrollbar() {
       <tbody>
         <tr bgcolor="#008080">
           <td rowspan="2" width="11%" bgcolor="#008080">&nbsp;</td>
-          <td rowspan="2" width="40%" bgcolor="#008080"><img src="images/BoatCaptain.jpg"
-
+          <td rowspan="2" width="40%" bgcolor="#008080"><img src="images/BoatCaptain.jpg"
               alt="Bridge Captain salboat logo" height="90" width="309"></td>
           <td rowspan="2" width="10%" bgcolor="#008080">&nbsp;</td>
           <td width="23%" valign="bottom" bgcolor="#008080" align="center">
-            <div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards"
-
+            <div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards"
                 height="60" width="163"></div>
           </td>
           <td width="11%" valign="bottom" bgcolor="#008080" align="center">&nbsp;</td>
         </tr>
         <tr>
-          <td height="30" valign="top" bgcolor="#008080" align="right"><img src="images/MateLogo.jpg"
-
+          <td height="30" valign="top" bgcolor="#008080" align="right"><img src="images/MateLogo.jpg"
               height="30" width="175" align="left"></td>
           <td height="30" valign="top" bgcolor="#008080" align="right">&nbsp;</td>
         </tr>
       </tbody>
     </table>
-    <table width="90%" cellspacing="0" cellpadding="0" border="0" background="images/HeaderGrad.jpg"
-
+    <table width="90%" cellspacing="0" cellpadding="0" border="0" background="images/HeaderGrad.jpg"
       align="center">
       <tbody>
         <tr>
-          <td scope="col" width="15%" valign="top" align="left"><img src="images/topleft.gif"
-
+          <td scope="col" width="15%" valign="top" align="left"><img src="images/topleft.gif"
               height="50" width="50"></td>
           <th scope="col" width="79%">
             <h3 align="center">Double Dummy Solver</h3>
@@ -66,8 +61,7 @@ function ColorScrollbar() {
               <tbody>
                 <tr>
                   <th scope="col">
-                    <table style="width: 90%; height: 220px;" cellspacing="6" cellpadding="0"
-
+                    <table style="width: 90%; height: 220px;" cellspacing="6" cellpadding="0"
                       border="0" align="center">
                       <tbody>
                         <tr>
@@ -82,15 +76,8 @@ function ColorScrollbar() {
                               Captain</a></td>
                         </tr>
                         <tr>
-                          <td class="navigation-bar"><a href="WordCaptain.html">Word
-                              Captain</a></td>
-                        </tr>
-                        <tr>
                           <td class="navigation-bar"><a href="aboutus.html">About
                               Us</a></td>
-                        </tr>
-                        <tr>
-                          <td class="navigation-bar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
                         </tr>
                       </tbody>
                     </table>
@@ -108,8 +95,7 @@ function ColorScrollbar() {
                       <tbody>
                         <tr>
                           <td scope="col">
-                            <table width="100%" cellspacing="0" cellpadding="0"
-
+                            <table width="100%" cellspacing="0" cellpadding="0"
                               border="0">
                               <tbody>
                                 <tr>
@@ -118,84 +104,82 @@ function ColorScrollbar() {
                                       <h2 align="center"></h2>
                                       <h2 align="center">Click to download FREE
                                         VERSION of <a href="LeadCaptain40.html">Lead
-                                          Captain 4.08</a></h2>
+                                          Captain 4.1008</a></h2>
                                       <p class="Exclaim style1" align="center">Mac
-                                        users - DDS works great with <a href="https://www.codeweavers.com/crossover"
-
-                                          title="link to Crossover from CodeWeavers"
-
+                                        users - DDS works great with <a href="https://www.codeweavers.com/crossover"
+                                          title="link to Crossover from CodeWeavers"
                                           target="_blank">Crossover</a></p>
                                       <p class="Exclaim style1" align="center">Linux
-                                        users -DDS works perfectly with <a href="https://www.linux.com/learn/tutorials/833811-how-to-install-and-use-wine-to-run-windows-applications-on-linux"
-
+                                        users -DDS works perfectly with <a href="https://www.linux.com/learn/tutorials/833811-how-to-install-and-use-wine-to-run-windows-applications-on-linux"
                                           target="_blank">Wine</a></p>
-                                      <p class="Exclaim style1" align="center"><span
-
-                                          class="style3 style9"><a href="WordCaptain.html"><span
-
-                                              style="color: red;">See new free
-                                              word game - Word Captain 2.15</span><br>
-                                          </a> </span></p>
-                                      <p class="Exclaim style1" align="center"><span
-
-                                          class="style3"> <a href="DDS%2012%20Setup.exe"
+                                      <p class="Exclaim style1" align="center"><span
+                                          class="style3"> <a href="DDS%2013%20Setup.exe"
                                             target="_blank" class="style3 style9">Download
-                                            DD Solver Version 12.99V<br>
+                                            DD Solver Version 13.02N<br>
                                           </a> </span></p>
                                       <p class="style3" style="text-align: left;"></p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99V</span>&nbsp;
-                                        Minor cosmetic fixes.</p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99U</span>&nbsp;
-                                        ACBL Live "Download Hand Records" once
-                                        again working. </p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99T</span>&nbsp;
-                                        Bug fixed in the "Save DD play for deal"
-                                        menu option.</p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99S</span>&nbsp;
-                                        Improvements made to Print Deals
-                                        (Ctrl-P), especially for A4 paper. Bug
-                                        fixed in Custom Deals.</p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99Q</span>&nbsp;
-                                        Correction made to the scores of Closed
-                                        Room Team Games.</p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.99</span>&nbsp;
-                                        This version solves the problem with
-                                        play records not being saved correctly
-                                        from some BBO deals. This bug affected
-                                        all hands in which there was no claim
-                                        made -where all 52 cards were played -
-                                        for deals after November 20. </p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim">12.98</span>&nbsp;
-                                        Several primarily minor bug fixes with
-                                        this version.&nbsp; The biggest problem
-                                        was the failure to calculate scores
-                                        correctly when the director assigned a
-                                        certain number of tricks. This primarily
-                                        happens when you exceed the time limit
-                                        in a BBO tournament. This version also
-                                        improves the display for those with very
-                                        high resolution monitors. </p>
-                                      <p class="style3" style="text-align: left;"><span
-
-                                          class="Exclaim"><br>
-                                        </span></p>
+                                      <p class="style3" style="text-align: left;"><br>
+                                        <span class="Exclaim">13.02N </span>Re-positioning
+                                        of cards, after screen resize, now
+                                        fixed.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02L </span>Bug
+                                        fixed in DD Leads. The card winning the
+                                        trick is underlined.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02k </span>Custom
+                                        Dealer bug fixed.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02h </span>Scoreboard
+                                        crash fixed. Column widths on Scoreboard
+                                        improved. Scoreboard display fixed for
+                                        high-resolution monitors. </p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02d </span>Bug in
+                                        Custom Dealer has been fixed. Polish
+                                        translations updated. </p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02c </span>This
+                                        version calculates actual results vs.
+                                        par results when hand is passed out. Bug
+                                        fixed when moving from Filter screen to
+                                        the Scoreboard.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.02</span> New print
+                                        capabilities in Scoreboard -&gt; File.
+                                        Better column width formatting in
+                                        Scoreboard. Formatting bug fixed in
+                                        Print (Ctrl-P) output. Some translations
+                                        improved.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.01b</span> This
+                                        version includes two DLL files which
+                                        some Windows systems are now requiring.
+                                      </p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.01</span> When a
+                                        score has been assigned - generally due
+                                        to slow play in a tournament - DDS will
+                                        now include those result in the totals
+                                        section of the Scoreboard.&nbsp; Those
+                                        same deals are not included in the
+                                        totals for Par results. This version of
+                                        DDS will execute even though my web site
+                                        is not available. I changed web
+                                        providers this year to Dreamhost and
+                                        they seem to be down a lot.This version
+                                        also includes the ssleay32.dll which is
+                                        needed in some installation to avoid an
+                                        OpenSSL error.</p>
+                                      <p class="style3" style="text-align: left;"><span
+                                          class="Exclaim">13.00</span> Several
+                                        important changes made to this version,
+                                        like fixing some bugs when downloading
+                                        BBO files - worthy of an update to <b>13</b>!
+                                      </p>
+                                      <br>
                                       <p class="Loud style11" style="text-align: center;">
-                                        <span><a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
-
+                                        <span><a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
                                             title="GDPR" target="_blank">GDPR
                                             Requirements</a></span> </p>
                                       <p class="style3" style="text-align: left;">
@@ -205,7 +189,7 @@ function ColorScrollbar() {
                                         assured when visiting this web site,
                                         downloading or running any program
                                         obtained from this web site. </p>
-                                      <h3>About DDS 12</h3>
+                                      <h3>About DDS 13</h3>
                                       <p class="Loud style11" align="left">Translations
                                         are handled with the <a href="https://poedit.net/">Poedit</a>
                                         system. I still need help with
@@ -217,36 +201,27 @@ function ColorScrollbar() {
                                       <p class="style3" align="left"><strong>If
                                           you like this free program, please
                                           send a donation.</strong> </p>
-                                      <form action="https://www.paypal.com/cgi-bin/webscr"
-
-                                        method="post"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-
-                                          name="submit" alt="PayPal - The safer, easier way to pay online!"
-
-                                          type="image" border="0"> <img alt=""
-
-                                          src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-
+                                      <form action="https://www.paypal.com/cgi-bin/webscr"
+                                        method="post"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+                                          name="submit" alt="PayPal - The safer, easier way to pay online!"
+                                          type="image" border="0"> <img alt=""
+                                          src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
                                           height="1" width="1" border="0"> </form>
-                                      <table width="100%" cellspacing="10" cellpadding="0"
-
+                                      <table width="100%" cellspacing="10" cellpadding="0"
                                         border="0">
                                         <tbody>
                                           <tr>
                                             <td width="58%" valign="top">
                                               <p align="center">&nbsp;</p>
-                                              <div style="text-align: center;"><img
-
-                                                  src="images/Main%20screen.jpg"
-
+                                              <div style="text-align: center;"><img
+                                                  src="images/Main%20screen.jpg"
                                                   alt="" title="main screen"></div>
                                             </td>
                                             <td width="42%" valign="top">
                                               <p class="style4" align="center">Languages
                                                 now supported by<br>
                                                 DD Solver</p>
-                                              <table width="70%" cellspacing="0"
-
+                                              <table width="70%" cellspacing="0"
                                                 cellpadding="0" border="0" align="center">
                                                 <tbody>
                                                   <tr>
