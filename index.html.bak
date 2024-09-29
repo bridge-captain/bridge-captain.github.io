@@ -25,48 +25,48 @@ function ColorScrollbar() {
   document.body.style.scrollbarTrackColor="#4eaea3"        
 }
 //-->
-</script> <table align="center" height="90" cellspacing="0" cellpadding="0" border="0">
+</script> <table height="90" cellspacing="0" cellpadding="0" border="0" align="center">
       <tbody>
         <tr bgcolor="#008080">
           <td rowspan="2" width="11%" bgcolor="#008080">&nbsp;</td>
           <td rowspan="2" width="40%" bgcolor="#008080"><img src="images/BoatCaptain.jpg"
               alt="Bridge Captain salboat logo" height="90" width="309"></td>
           <td rowspan="2" width="10%" bgcolor="#008080">&nbsp;</td>
-          <td align="center" width="23%" valign="bottom" bgcolor="#008080">
+          <td width="23%" valign="bottom" bgcolor="#008080" align="center">
             <div align="right"><img src="images/deck.jpg" alt="Bridge hand with 13 cards"
                 height="60" width="163"></div>
           </td>
-          <td align="center" width="11%" valign="bottom" bgcolor="#008080">&nbsp;</td>
+          <td width="11%" valign="bottom" bgcolor="#008080" align="center">&nbsp;</td>
         </tr>
         <tr>
-          <td align="right" height="30" valign="top" bgcolor="#008080"><img src="images/MateLogo.jpg"
-              align="left" height="30" width="175"></td>
-          <td align="right" height="30" valign="top" bgcolor="#008080">&nbsp;</td>
+          <td height="30" valign="top" bgcolor="#008080" align="right"><img src="images/MateLogo.jpg"
+              height="30" width="175" align="left"></td>
+          <td height="30" valign="top" bgcolor="#008080" align="right">&nbsp;</td>
         </tr>
       </tbody>
     </table>
     <!-- #EndLibraryItem -->
-    <table &gt;="" align="center" width="90%" cellspacing="0" cellpadding="0" border="0"
-      background="images/HeaderGrad.jpg">
+    <table &gt;="" width="90%" cellspacing="0" cellpadding="0" border="0" background="images/HeaderGrad.jpg"
+      align="center">
       <tbody>
         <tr>
-          <td scope="col" align="left" width="15%" valign="top"><img src="images/topleft.gif"
+          <td scope="col" width="15%" valign="top" align="left"><img src="images/topleft.gif"
               height="50" width="50"></td>
           <th scope="col" width="79%">
             <h3 align="center">Welcome</h3>
           </th>
-          <td scope="col" align="right" valign="top">
+          <td scope="col" valign="top" align="right">
             <div align="right"><img src="images/topright.gif" height="34" width="34"></div>
           </td>
         </tr>
         <tr>
           <td width="15%" valign="top"><!-- #BeginLibraryItem "/Library/NavBar.lbi" -->
-            <table align="center" width="15%" cellspacing="15" cellpadding="0" border="0">
+            <table width="15%" cellspacing="15" cellpadding="0" border="0" align="center">
               <tbody>
                 <tr>
                   <th scope="col">
-                    <table style="width: 98px; height: 174px;" align="center" cellspacing="6"
-                      cellpadding="0" border="0">
+                    <table style="width: 98px; height: 174px;" cellspacing="6" cellpadding="0"
+                      border="0" align="center">
                       <tbody>
                         <tr>
                           <td class="navigation-bar" width="66"><a href="index.html">Home</a></td>
@@ -123,11 +123,11 @@ function ColorScrollbar() {
                   </td>
                   <th scope="col"><img src="images/QH.gif" title="Queen of hearts"
                       height="111" width="94"></th>
-                  <td scope="col" align="left" valign="top">&nbsp;</td>
+                  <td scope="col" valign="top" align="left">&nbsp;</td>
                 </tr>
               </tbody>
             </table>
-            <table align="center" width="100%" border="0">
+            <table width="100%" border="0" align="center">
               <tbody>
                 <tr>
                   <td>
@@ -175,9 +175,7 @@ function ColorScrollbar() {
               <li class="Loud">Works on all Windows PCs since Windows 95</li>
             </ul>
             <div class="Exclaim">
-              <p><a href="Captain6Setup.exe">Download</a> your free copy of
-                Bridge Captain 6 today, and start having fun with bridge.</p>
-              <p><a href="PBNforBC.exe">Download</a> your free copy of PBNforBC
+              <p><br>
               </p>
               <h3 style="text-align: center;">GDPR Information</h3>
               <p class="Loud style11" align="left">Double Dummy Solver does not
@@ -185,7 +183,7 @@ function ColorScrollbar() {
                 kind. Your privacy is assured when visiting this web site,
                 downloading or running any program obtained from this web site.</p>
               <p></p>
-              <p class="Loud"><span class="Loud">For many Danish Bridge Products
+              <p class="Loud"><span class="Loud">For Danish Bridge Products
                   including the latest "Bridge Class Plus", see </span> <a href="http://www.edbridge.dk/">EdBridge</a>
               </p>
             </div>
